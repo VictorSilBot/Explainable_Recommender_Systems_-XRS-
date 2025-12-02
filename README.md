@@ -1,3 +1,7 @@
+# Vídeo:
+[![Assista ao vídeo](https://img.youtube.com/vi/I7LMIFRU7ac/maxresdefault.jpg)](https://www.youtube.com/watch?v=I7LMIFRU7ac)
+
+
 # Projeto: Sistemas de Recomendação Explicáveis (XRS) com 3 Abordagens
 
 Material didático desenvolvido para a Fase 2 do projeto da disciplina  
